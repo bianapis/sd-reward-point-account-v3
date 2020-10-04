@@ -1,0 +1,25 @@
+{
+  "businessService" : "businessService",
+  "captureServiceType" : "captureServiceType",
+  "capturePreconditions" : "capturePreconditions",
+  "captureRetrieveActionTaskReference" : "CRATR732681",
+  "capturePostconditions" : "capturePostconditions",
+  "captureServiceDescription" : "captureServiceDescription",
+  "captureRetrieveActionTaskRecord" : {},
+  "captureInstanceAnalysis" : {
+    "captureInstanceAnalysisReportType" : "captureInstanceAnalysisReportType",
+    "captureInstanceAnalysisRecord" : {},
+    "captureInstanceAnalysisParameters" : "captureInstanceAnalysisParameters",
+    "captureInstanceAnalysisReport" : {}
+  },
+  "captureInstanceReport" : {
+    "captureInstanceReportType" : "captureInstanceReportType",
+    "captureInstanceReport" : {},
+    "captureInstanceReportParameters" : "captureInstanceReportParameters",
+    "captureInstanceReportRecord" : {}
+  },
+  "captureEventSchedule" : "captureEventSchedule",
+  "captureServiceInputsandOuputs" : "captureServiceInputsandOuputs",
+  "captureServiceWorkProduct" : "captureServiceWorkProduct",
+  "captureRetrieveActionResponse" : "captureRetrieveActionResponse"
+}

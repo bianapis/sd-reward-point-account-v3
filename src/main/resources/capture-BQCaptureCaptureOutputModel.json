@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "captureServiceType" : "captureServiceType",
+  "captureCaptureActionTaskRecord" : {},
+  "capturePreconditions" : "capturePreconditions",
+  "capturePostconditions" : "capturePostconditions",
+  "captureServiceDescription" : "captureServiceDescription",
+  "captureEventSchedule" : "captureEventSchedule",
+  "captureServiceInputsandOuputs" : "captureServiceInputsandOuputs",
+  "captureServiceWorkProduct" : "captureServiceWorkProduct",
+  "captureCaptureActionTaskReference" : "CCATR762254",
+  "captureResponseRecord" : {},
+  "captureCaptureRecordReference" : "CCRR768774"
+}

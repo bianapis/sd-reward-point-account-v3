@@ -1,0 +1,15 @@
+{
+  "expirationInitiateActionRecord" : {},
+  "expirationLogEventExpirationServiceWorkProduct" : "expirationLogEventExpirationServiceWorkProduct",
+  "expirationInstanceReference" : "EIR757790",
+  "expirationLogEventExpirationServiceName" : "expirationLogEventExpirationServiceName",
+  "expirationInstanceStatus" : "expirationInstanceStatus",
+  "expirationEventSchedule" : "expirationEventSchedule",
+  "expirationPreconditions" : "expirationPreconditions",
+  "expirationLogEventExpirationServiceDescription" : "expirationLogEventExpirationServiceDescription",
+  "expirationInitiateActionReference" : "EIAR798539",
+  "logEventExpiration" : "logEventExpiration",
+  "expirationLogEventExpirationServiceInputsandOuputs" : "expirationLogEventExpirationServiceInputsandOuputs",
+  "expirationLogEventExpirationServiceType" : "expirationLogEventExpirationServiceType",
+  "expirationPostconditions" : "expirationPostconditions"
+}

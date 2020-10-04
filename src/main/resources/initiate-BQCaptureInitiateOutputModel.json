@@ -1,0 +1,14 @@
+{
+  "businessService" : "businessService",
+  "captureInitiateActionReference" : "CIAR754797",
+  "captureServiceType" : "captureServiceType",
+  "captureInstanceStatus" : "captureInstanceStatus",
+  "capturePreconditions" : "capturePreconditions",
+  "capturePostconditions" : "capturePostconditions",
+  "captureServiceDescription" : "captureServiceDescription",
+  "captureInitiateActionRecord" : {},
+  "captureInstanceReference" : "CIR794497",
+  "captureEventSchedule" : "captureEventSchedule",
+  "captureServiceInputsandOuputs" : "captureServiceInputsandOuputs",
+  "captureServiceWorkProduct" : "captureServiceWorkProduct"
+}

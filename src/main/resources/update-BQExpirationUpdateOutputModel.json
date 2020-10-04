@@ -1,0 +1,14 @@
+{
+  "expirationPreconditions" : "expirationPreconditions",
+  "expirationLogEventExpirationServiceDescription" : "expirationLogEventExpirationServiceDescription",
+  "logEventExpiration" : "logEventExpiration",
+  "expirationLogEventExpirationServiceWorkProduct" : "expirationLogEventExpirationServiceWorkProduct",
+  "expirationUpdateActionTaskRecord" : {},
+  "expirationLogEventExpirationServiceName" : "expirationLogEventExpirationServiceName",
+  "updateResponseRecord" : {},
+  "expirationLogEventExpirationServiceInputsandOuputs" : "expirationLogEventExpirationServiceInputsandOuputs",
+  "expirationUpdateActionTaskReference" : "EUATR771886",
+  "expirationLogEventExpirationServiceType" : "expirationLogEventExpirationServiceType",
+  "expirationEventSchedule" : "expirationEventSchedule",
+  "expirationPostconditions" : "expirationPostconditions"
+}

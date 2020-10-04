@@ -1,0 +1,28 @@
+{
+  "rewardPointsLogPositionType" : "rewardPointsLogPositionType",
+  "rewardPointsLogPosition" : "rewardPointsLogPosition",
+  "rewardPointsLogInstanceAnalysis" : {
+    "rewardPointsLogInstanceAnalysisReportType" : "rewardPointsLogInstanceAnalysisReportType",
+    "rewardPointsLogInstanceAnalysisData" : "rewardPointsLogInstanceAnalysisData",
+    "rewardPointsLogInstanceAnalysisReport" : {}
+  },
+  "rewardPointsLogUpdateLog" : "rewardPointsLogUpdateLog",
+  "rewardPointsLogRetrieveActionResponse" : "rewardPointsLogRetrieveActionResponse",
+  "rewardPointsLogSelectedOption" : "rewardPointsLogSelectedOption",
+  "rewardPointsLogCustomerReference" : "RPLCR772961",
+  "rewardPointsLogReference" : "RPLR718944",
+  "rewardPointsLogParameterType" : "rewardPointsLogParameterType",
+  "rewardPointsLogUsageLog" : "rewardPointsLogUsageLog",
+  "rewardPointsLogServiceConfiguration" : "rewardPointsLogServiceConfiguration",
+  "rewardPointsLogInstanceReportRecord" : {
+    "rewardPointsLogInstanceReportData" : "rewardPointsLogInstanceReportData",
+    "rewardPointsLogInstanceReportType" : "rewardPointsLogInstanceReportType",
+    "rewardPointsLogInstanceReport" : {}
+  },
+  "rewardPointsLogPositionLimitTime" : "09-22-2018",
+  "rewardPointsLogType" : "rewardPointsLogType",
+  "rewardPointsLogSchedule" : "rewardPointsLogSchedule",
+  "rewardPointsLogBusinessUnitReference" : "RPLBUR708599",
+  "rewardPointsLogRetrieveActionTaskRecord" : {},
+  "rewardPointsLogRetrieveActionTaskReference" : "RPLRATR736448"
+}

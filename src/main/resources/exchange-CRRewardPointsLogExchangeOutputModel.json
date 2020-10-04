@@ -1,0 +1,12 @@
+{
+  "rewardPointsLogExchangeActionTaskReference" : "RPLEATR713822",
+  "rewardPointsLogUsageLog" : "rewardPointsLogUsageLog",
+  "rewardPointsLogServiceConfiguration" : "rewardPointsLogServiceConfiguration",
+  "rewardPointsLogPositionType" : "rewardPointsLogPositionType",
+  "rewardPointsLogPosition" : "rewardPointsLogPosition",
+  "rewardPointsLogUpdateLog" : "rewardPointsLogUpdateLog",
+  "rewardPointsLogExchangeActionResponse" : "rewardPointsLogExchangeActionResponse",
+  "rewardPointsLogPositionLimitTime" : "09-22-2018",
+  "rewardPointsLogExchangeActionTaskRecord" : {},
+  "rewardPointsLogSchedule" : "rewardPointsLogSchedule"
+}

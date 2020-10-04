@@ -1,0 +1,12 @@
+{
+  "rewardPointsLogUsageLog" : "rewardPointsLogUsageLog",
+  "rewardPointsLogServiceConfiguration" : "rewardPointsLogServiceConfiguration",
+  "rewardPointsLogPositionType" : "rewardPointsLogPositionType",
+  "rewardPointsLogPosition" : "rewardPointsLogPosition",
+  "rewardPointsLogUpdateLog" : "rewardPointsLogUpdateLog",
+  "rewardPointsLogControlActionResponse" : "rewardPointsLogControlActionResponse",
+  "rewardPointsLogControlActionTaskRecord" : {},
+  "rewardPointsLogPositionLimitTime" : "09-22-2018",
+  "rewardPointsLogSchedule" : "rewardPointsLogSchedule",
+  "rewardPointsLogControlActionTaskReference" : "RPLCATR728015"
+}

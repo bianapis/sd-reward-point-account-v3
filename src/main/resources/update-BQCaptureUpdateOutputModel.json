@@ -1,0 +1,13 @@
+{
+  "businessService" : "businessService",
+  "captureUpdateActionTaskRecord" : {},
+  "captureServiceType" : "captureServiceType",
+  "capturePreconditions" : "capturePreconditions",
+  "updateResponseRecord" : {},
+  "capturePostconditions" : "capturePostconditions",
+  "captureServiceDescription" : "captureServiceDescription",
+  "captureEventSchedule" : "captureEventSchedule",
+  "captureUpdateActionTaskReference" : "CUATR753439",
+  "captureServiceInputsandOuputs" : "captureServiceInputsandOuputs",
+  "captureServiceWorkProduct" : "captureServiceWorkProduct"
+}

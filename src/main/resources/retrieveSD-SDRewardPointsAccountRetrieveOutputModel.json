@@ -1,0 +1,39 @@
+{
+  "rewardPointsAccountRetrieveActionTaskRecord" : {},
+  "rewardPointsAccountRetrieveActionResponse" : "rewardPointsAccountRetrieveActionResponse",
+  "rewardPointsAccountRetrieveActionTaskReference" : "SRATR795161",
+  "rewardPointsAccountRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "rewardPointsAccountPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "rewardPointsAccountActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "rewardPointsAccountOfferedService" : {
+    "rewardPointsAccountServiceRecord" : {
+      "rewardPointsAccountServicePoliciesandGuidelines" : {
+        "rewardPointsAccountServiceEligibility" : "rewardPointsAccountServiceEligibility",
+        "rewardPointsAccountServiceIntendedUses" : "rewardPointsAccountServiceIntendedUses",
+        "rewardPointsAccountServicePricingandTerms" : "rewardPointsAccountServicePricingandTerms"
+      },
+      "rewardPointsAccountServiceDescription" : "rewardPointsAccountServiceDescription",
+      "rewardPointsAccountServiceVersion" : "rewardPointsAccountServiceVersion",
+      "rewardPointsAccountServiceType" : "rewardPointsAccountServiceType",
+      "rewardPointsAccountServiceSchedule" : "rewardPointsAccountServiceSchedule"
+    },
+    "rewardPointsAccountServiceReference" : "776158"
+  }
+}

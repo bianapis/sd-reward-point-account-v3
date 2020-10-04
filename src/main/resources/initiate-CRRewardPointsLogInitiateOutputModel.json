@@ -1,0 +1,13 @@
+{
+  "rewardPointsLogUsageLog" : "rewardPointsLogUsageLog",
+  "rewardPointsLogServiceConfiguration" : "rewardPointsLogServiceConfiguration",
+  "rewardPointsLogPositionType" : "rewardPointsLogPositionType",
+  "rewardPointsLogPosition" : "rewardPointsLogPosition",
+  "rewardPointsLogUpdateLog" : "rewardPointsLogUpdateLog",
+  "rewardPointsLogPositionLimitTime" : "09-22-2018",
+  "rewardPointsLogSchedule" : "rewardPointsLogSchedule",
+  "rewardPointsLogInstanceReference" : "RPLIR722149",
+  "rewardPointsLogInitiateActionRecord" : {},
+  "rewardPointsLogInitiateActionReference" : "RPLIAR704810",
+  "rewardPointsLogInstanceStatus" : "rewardPointsLogInstanceStatus"
+}

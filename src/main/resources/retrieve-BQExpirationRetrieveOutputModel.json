@@ -1,0 +1,26 @@
+{
+  "expirationInstanceReport" : {
+    "expirationInstanceReport" : {},
+    "expirationInstanceReportRecord" : {},
+    "expirationInstanceReportParameters" : "expirationInstanceReportParameters",
+    "expirationInstanceReportType" : "expirationInstanceReportType"
+  },
+  "expirationLogEventExpirationServiceWorkProduct" : "expirationLogEventExpirationServiceWorkProduct",
+  "expirationInstanceAnalysis" : {
+    "expirationInstanceAnalysisReport" : {},
+    "expirationInstanceAnalysisReportType" : "expirationInstanceAnalysisReportType",
+    "expirationInstanceAnalysisRecord" : {},
+    "expirationInstanceAnalysisParameters" : "expirationInstanceAnalysisParameters"
+  },
+  "expirationRetrieveActionTaskReference" : "ERATR747658",
+  "expirationLogEventExpirationServiceName" : "expirationLogEventExpirationServiceName",
+  "expirationRetrieveActionTaskRecord" : {},
+  "expirationEventSchedule" : "expirationEventSchedule",
+  "expirationRetrieveActionResponse" : "expirationRetrieveActionResponse",
+  "expirationPreconditions" : "expirationPreconditions",
+  "expirationLogEventExpirationServiceDescription" : "expirationLogEventExpirationServiceDescription",
+  "logEventExpiration" : "logEventExpiration",
+  "expirationLogEventExpirationServiceInputsandOuputs" : "expirationLogEventExpirationServiceInputsandOuputs",
+  "expirationLogEventExpirationServiceType" : "expirationLogEventExpirationServiceType",
+  "expirationPostconditions" : "expirationPostconditions"
+}

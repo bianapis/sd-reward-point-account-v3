@@ -1,0 +1,15 @@
+{
+  "expirationLogEventExpirationServiceWorkProduct" : "expirationLogEventExpirationServiceWorkProduct",
+  "expirationLogEventExpirationServiceName" : "expirationLogEventExpirationServiceName",
+  "expirationCaptureActionTaskRecord" : {},
+  "expirationCaptureActionTaskReference" : "ECATR713046",
+  "expirationEventSchedule" : "expirationEventSchedule",
+  "expirationCaptureRecordReference" : "ECRR711004",
+  "expirationPreconditions" : "expirationPreconditions",
+  "expirationLogEventExpirationServiceDescription" : "expirationLogEventExpirationServiceDescription",
+  "logEventExpiration" : "logEventExpiration",
+  "expirationLogEventExpirationServiceInputsandOuputs" : "expirationLogEventExpirationServiceInputsandOuputs",
+  "expirationLogEventExpirationServiceType" : "expirationLogEventExpirationServiceType",
+  "expirationPostconditions" : "expirationPostconditions",
+  "captureResponseRecord" : {}
+}

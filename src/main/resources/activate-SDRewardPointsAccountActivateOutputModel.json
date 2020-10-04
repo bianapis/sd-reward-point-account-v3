@@ -1,0 +1,24 @@
+{
+  "rewardPointsAccountServicingSessionReference" : "SSSR783215",
+  "rewardPointsAccountServiceConfigurationRecord" : {
+    "rewardPointsAccountServiceConfigurationSetup" : {
+      "rewardPointsAccountServiceConfigurationParameter" : "rewardPointsAccountServiceConfigurationParameter"
+    },
+    "rewardPointsAccountServiceSubscription" : {
+      "rewardPointsAccountServiceSubscriberReference" : "769192",
+      "rewardPointsAccountServiceSubscriberAccessProfile" : "rewardPointsAccountServiceSubscriberAccessProfile"
+    },
+    "rewardPointsAccountServiceStatus" : "rewardPointsAccountServiceStatus",
+    "rewardPointsAccountServiceConfigurationSettingDescription" : "rewardPointsAccountServiceConfigurationSettingDescription",
+    "rewardPointsAccountServiceAgreement" : {
+      "rewardPointsAccountServiceUserReference" : "767210",
+      "rewardPointsAccountServiceAgreementTermsandConditions" : "rewardPointsAccountServiceAgreementTermsandConditions",
+      "rewardPointsAccountServiceAgreementReference" : "791202"
+    },
+    "rewardPointsAccountServiceConfigurationSettingReference" : "700761"
+  },
+  "rewardPointsAccountActivationActionTaskRecord" : {},
+  "rewardPointsAccountServicingSessionRecord" : {},
+  "rewardPointsAccountActivationActionTaskReference" : "SAATR758836",
+  "rewardPointsAccountServicingSessionStatus" : "rewardPointsAccountServicingSessionStatus"
+}

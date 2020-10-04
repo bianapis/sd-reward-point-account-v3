@@ -1,0 +1,15 @@
+{
+  "rewardPointsLogUsageLog" : "rewardPointsLogUsageLog",
+  "rewardPointsLogServiceConfiguration" : "rewardPointsLogServiceConfiguration",
+  "rewardPointsLogPositionType" : "rewardPointsLogPositionType",
+  "rewardPointsLogGrantActionTaskReference" : "RPLGATR783081",
+  "rewardPointsLogPosition" : "rewardPointsLogPosition",
+  "rewardPointsLogUpdateLog" : "rewardPointsLogUpdateLog",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "rewardPointsLogPositionLimitTime" : "09-22-2018",
+  "rewardPointsLogSchedule" : "rewardPointsLogSchedule",
+  "grantRequestRecordReference" : "GRRR752317",
+  "rewardPointsLogGrantActionTaskRecord" : {}
+}
